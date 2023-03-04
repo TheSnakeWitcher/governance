@@ -13,3 +13,8 @@
 [submodule "lib/aave-v3-periphery"]
 	path = lib/aave-v3-periphery
 	url = https://github.com/aave/aave-v3-periphery
+[submodule "lib/prb-test"]
+	path = lib/prb-test
+	url = https://github.com/paulrberg/prb-test
+[submodule "/home/mr-papi/SoftwareCode/Templates/forge-new-papi/lib/prb-test"]
+	branch = 0.3.1
